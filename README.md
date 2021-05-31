@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karansawant45
 - 👀 I’m interested in Data Science, AI, ML
-- 🌱 I’m currently learning Forecasting
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m always looking to learn something new..
+- 💞️ I’m looking to collaborate on Data Science projects..
 - 📫 Reach me at www.linkedin.com/in/karansawant45
 
 <!---
